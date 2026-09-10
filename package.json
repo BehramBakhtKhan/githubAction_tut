@@ -1,0 +1,20 @@
+{
+  "name": "githubaction_tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "math.js",
+  "scripts": {
+      "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BehramBakhtKhan/githubAction_tut.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BehramBakhtKhan/githubAction_tut/issues"
+  },
+  "homepage": "https://github.com/BehramBakhtKhan/githubAction_tut#readme"
+}
